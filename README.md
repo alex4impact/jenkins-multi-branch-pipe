@@ -1,3 +1,3 @@
 # jenkins-multi-branch-pipe
 
-# Activity created in order to learn Jenkins CICD capabilities.
+# Activity developed in order to learn Jenkins CICD capabilities.
